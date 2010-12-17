@@ -1,0 +1,13 @@
+CPDLib: The Common PHP Development Library
+Copyright (C) 2010 Aaron Andersen
+
+This software is licensed under the GNU Lesser General Public License version 2.1 (see license.txt).
+You may not use this software except under the terms of that license. Generally, the LGPL allows you
+to incorporate this code into your own projects without any restrictions on the license or source of
+those projects; only if you wish to modify the CPD Library code itself, and then redistribute it, do
+you need to adhere to the LGPL requirements by making your modifications also freely available under
+the terms of the LGPL (or another compatible license). For details, see the exact legal license text
+in the lgpl.txt file.
+
+If you wish to use this library, but cannot cannot do so under the terms of the LGPL, please contact
+the author for information about obtaining the software under a different license.
