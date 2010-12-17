@@ -13,6 +13,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
  * Lesser General Public License for more details.
  * 
+ * 
  * MySQL driver for the CPDSQL function library. All of the functions in this file call into the PHP
  * mysql_* functions to directly communicate with the MySQL server. All of the main functions in the
  * CPDSQL library eventually call one of these to do the final actual work of running the SQL query,

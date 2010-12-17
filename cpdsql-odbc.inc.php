@@ -13,6 +13,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
  * Lesser General Public License for more details.
  * 
+ * 
  * ODBC driver for the CPDSQL function library. All of the functions in this file call into the ODBC
  * module in PHP (i.e., the odbc_* functions) to directly communicate with the SQL driver or server.
  * All of the main functions in the CPDSQL library eventually call one of these to do the final work
